@@ -15,3 +15,4 @@ in the appropriate folder.
 Run
 - windy.py
 - cliff.py
+- mountain.py
